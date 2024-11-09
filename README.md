@@ -11,3 +11,4 @@ Flexible Images: Ensured images are responsive by setting their width to a perce
 Fluid Grid Layout: Utilized a fluid grid layout for the features section, allowing the boxes to wrap and adjust based on screen size.
 Test and Iterate: Tested the web page on various devices and screen sizes to ensure it looks great and functions well on all of them.
 Live Demo Check out the live demo of RentBro:
+         https://bhattnishu.github.io/RENTbro-assignment-/
